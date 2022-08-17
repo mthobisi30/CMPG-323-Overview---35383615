@@ -1,6 +1,6 @@
 # CMPG-323-Overview-35383615
 
-##Introduction 
+## Introduction 
 Welcome to My (35383615) CMPG 323 project Overview. 
 The CMPG 323 projects 1, 2, 3, 4 & 5 will each have their own repositories (with their respective Naming Conversions as stated below), which will all be intergrated into one kanban project. 
 
