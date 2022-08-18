@@ -30,7 +30,9 @@ The CMPG 323 projects 1, 2, 3, 4 & 5 will each have their own repositories (with
 - Currently the branching factors for the upcoming projects have not yet been decided but so far, it is known that the first project will only use the main branching factor and as time progresses, each project will have a set branching strategy.
 
 ## Storing of credentials 
-- All authentication and Private credentials will be stored on KeePass.
+- All authentication and Private credentials will be stored on KeePass which will be set up to store all sensitive information in the local machine.
+- Encryption strategies to be implemented
+- All users that want to gain access to the sensitive information will need a special key.
 
 ## References 
 - [How to Add An Image to a Readme.md on GitHub](https://www.youtube.com/watch?v=nvPOUdz5PL4)
