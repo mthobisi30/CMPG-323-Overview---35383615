@@ -20,3 +20,7 @@ The CMPG 323 projects 1, 2, 3, 4 & 5 will each have their own repositories (with
 
 - Project 5: CMPG Project 5
   - Repository for the fifth project is created and used exclusively for reporting and monitoring of the task at hand.
+  
+ ## Context Diagram: Project and Repository Intergration.
+ 
+ ![Context Diagram](https://user-images.githubusercontent.com/105317670/185409189-b2f08fb5-ca97-4e7d-82cc-57386eaba5a8.jpeg)
